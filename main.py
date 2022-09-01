@@ -9,4 +9,4 @@ class Constants():
     def __init__(self, base_point, extra_point, n_rdora, has):
         self.base_point = base_point
 
-print(Constants.base_point)
+# print(Constants.base_point)
