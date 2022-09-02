@@ -32,7 +32,6 @@ def main():
     players = Players()
     game = Game()
     round = game.start()
-    game.launch(players)
     game.end()
 
     return
