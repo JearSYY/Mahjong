@@ -33,6 +33,9 @@ class Player():
         self.point = point
         self.rank = 0
         self.hand = None
+        self.paiList = []
+
+    def butuakuze
 
     def update(self, point, rank):
         self.point = point
